@@ -1,0 +1,5 @@
+##Video components in mdx files 
+
+here is a video component inside of a mdx file: 
+
+<Video id={5O2Yw_ldRjA}/> 
